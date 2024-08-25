@@ -39,5 +39,7 @@ public class Main {
         System.out.println("Product: " + product2 + ",");
         System.out.println("price EUR " + priceOfLaptop + ".");
         System.out.println("Address: " + address2 + "street, " + numberOfTheHouse2);
+
+        System.out.println("Added it to make some changes with comments");
     }
 }
